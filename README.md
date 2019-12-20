@@ -2,6 +2,8 @@
 
 Supplement to [this](https://www.bogleheads.org/forum/viewtopic.php?f=1&t=297892) discussion on Bogleheads.org
 
+__*Note: This workbook is intended to provided examples of computational techniques. Neither the individual securities, asset allocations, or computational results should be implemented without independent review*__
+
 ### Purpose
 Enables user to calculate *Lazy Rebalancing* of a portfolio by specifying amount available to add and target asset allocation (AA).
 
